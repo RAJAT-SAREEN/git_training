@@ -1,6 +1,4 @@
 hello rajat..
-<<<<<<< HEAD
 regitration
-=======
 login
->>>>>>> 42d4f4192a1645badd5f220d9be5d4c8d29d4c3d
+
